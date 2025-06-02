@@ -1,0 +1,16 @@
+{
+  "name": "eco-habit-backend",
+  "version": "0.0.0",
+  "description": "EcoHabit-backend",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
